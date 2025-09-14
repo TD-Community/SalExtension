@@ -1,6 +1,6 @@
 ![Language](https://img.shields.io/badge/Gupta_Team_Developer-SqlWindows_TD%205.1%20and%20up-red?style=plastic&labelColor=blue)
 
-SALExtensionW V2.18
+SALExtensionW V2.19
 
 -FOR TD5.x up to TD7.5 (x86)-
 
@@ -33,6 +33,8 @@ Instead, copy only the specific functions you need and integrate them into your 
 
 ############################### UPDATES ########################
 
+- v2.19 - Dave Rabelink 14/09/2025
+	- Added: SalGetPrimaryIPv4
 - v2.18 - Dave Rabelink 10/09/2025
 	- Corrected some WINSOCK declarations to work for UNICODE TD
 	- SalSysGetIP and SalSysPing corrected for UNICODE TD
